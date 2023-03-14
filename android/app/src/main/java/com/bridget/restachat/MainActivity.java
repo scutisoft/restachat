@@ -1,0 +1,6 @@
+package com.bridget.restachat;
+
+import io.flutter.embedding.android.FlutterActivity;
+
+public class MainActivity extends FlutterActivity {
+}
